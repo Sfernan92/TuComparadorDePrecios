@@ -1,4 +1,4 @@
-# Proyecto_Sandra_Fernandez
+# TuComparadorDePrecios
 
 > ⚠⚠ IMPORTANTE: Para Visualizar el proyecto, ir a la **rama DEV**, ya que la rama main, esta limpia, En dicha rama se explica el proyecto y como desplegarlo. ⚠⚠
 
