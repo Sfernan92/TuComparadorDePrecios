@@ -53,13 +53,13 @@ Para desplegar DonTacaño.com antes tienes que instalar Docker Compose y Docker 
 1. **Clave HTTPS.**
 
 ```
-git clone git@github.com:CodeArts-Solutions/elephants-B-Fray-Meliton.git](https://github.com/Sfernan92/TFG-Sandra_Fernandez.git)
+git clone git@github.com:CodeArts-Solutions/elephants-B-Fray-Meliton.git](https://github.com/Sfernan92/TuComparadorDePrecios.git)
 ```
 
 2. **Clave SSH.**
 
 ```
-git@github.com:Sfernan92/TFG-Sandra_Fernandez.git
+git@github.com:Sfernan92/TuComparadorDePrecios.git
 ```
 
 ### 🆙 Levantar los contenedores de Docker.
